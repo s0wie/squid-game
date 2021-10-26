@@ -1,0 +1,16 @@
+<svg width="299" height="169" viewBox="0 0 299 169" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="225" y="99" width="37.5" height="39" fill="#ED1B76"/>
+<path d="M259.5 102H226.5V135H259.5" stroke="white" stroke-width="6" stroke-linecap="square"/>
+<path d="M248.5 118.5H282" stroke="white" stroke-width="6" stroke-linecap="square"/>
+<path d="M191 47.5V80.5H217C222.167 80.5 232.7 77.1 233.5 63.5C234.3 49.9 222.833 46.5 217 46.5H191" stroke="white" stroke-width="6" stroke-linecap="square"/>
+<path d="M175 46V81" stroke="white" stroke-width="6" stroke-linecap="square"/>
+<path d="M127 46.5V66C127 70.5 130.2 79.7 143 80.5C155.8 81.3 159.667 71.1667 160 66V23" stroke="white" stroke-width="6" stroke-linecap="square"/>
+<path d="M67 47H42.5C39.6667 47 34 48.6 34 55C34 61.4 39.6667 63.3333 42.5 63.5H61.5C64 63.3333 69.1 64.7 69.5 71.5C69.9 78.3 64.3333 80.3333 61.5 80.5H16.5" stroke="white" stroke-width="6" stroke-linecap="square"/>
+<path d="M114.99 99.6L113.999 101.5H86.9994C80.9994 101.833 69.3 108.1 70.5 120.5C71.7 132.9 81.9994 134.833 86.9994 135.5H118.999" stroke="white" stroke-width="6" stroke-linecap="square"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M87.5 115.5H84.5V121.5H87.5H103.214L118.13 149H124.955L123.637 146.57L107.637 117.07L106.786 115.5H105H87.5Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M169 103V102H174.894L191.5 130.103L208.106 102H214V103V136V139H208V136V113.974L194.083 137.526L193.803 138H189.197L188.917 137.526L175 113.974V136V139H169V136V103Z" fill="white"/>
+<path d="M142.5 112L156.789 139H128.211L142.5 112Z" fill="#ED1B76"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M144.656 106.605L141.911 101.38L139.308 106.677L124.808 136.177L123.484 138.869L123.751 139H130.106L130.192 138.823L142.089 114.62L154.844 138.895L154.899 139H161.095L161.551 138.76L160.156 136.105L144.656 106.605Z" fill="white"/>
+<circle cx="98" cy="64" r="17.5" fill="#ED1B76" stroke="white" stroke-width="5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M96.1835 65L97.2996 67.3067L112.3 98.3067L113.606 101.007L119.007 98.3938L117.701 95.6933L102.849 65H96.1835Z" fill="white"/>
+</svg>

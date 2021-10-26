@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+.content-text {
+  font-family: squidFont;
+  text-align: center;
+  font-size: 20px;
+}
+.actor-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.actor-item {
+  color: black;
+  width: 50vh;
+  background-color: white;
+  margin: 30px;
+  height: 90vh;
+}
+
+.actor-img {
+  width: 50vh;
+  height: 60vh;
+}
+
+.actor-description {
+  padding: 20px;
+  font-family: sans-serif;
+}
+
+@font-face {
+  font-family: squidFont;
+  src: url(GameOfSquids-1GMVL.ttf);
+}

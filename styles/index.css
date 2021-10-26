@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navigation {
+  transition: fill 0.7s;
+  transition-timing-function: ease;
+  fill: black;
+}
+.navigation:hover {
+  fill: #ed1b76;
+}
+
+a {
+  text-decoration: none;
+}

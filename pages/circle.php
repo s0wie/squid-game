@@ -24,7 +24,7 @@ require __DIR__ . "/../components/header.php"; ?>
 
 </div>
 <article>
-  <h1 class="content-text">HELLO</h1>
+  <h1 class="content-text">HELLO IT HAS BEEN X DAYS SINCE RELEASE DATE (17 september 2021 and since then the series has taken over the world</h1>
   <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid nulla optio nisi, quos assumenda rerum temporibus tenetur deleniti autem fugit soluta corporis animi id eligendi atque non sint veritatis itaque!</p>
 </article>
 

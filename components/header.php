@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="/../styles/slideshow.css">
   <link rel="stylesheet" href="/../styles/circle.css">
   <link rel="stylesheet" href="/../styles/triangle.css">
+  <link rel="stylesheet" href="/../styles/square.css">
 </head>
 
 <body>

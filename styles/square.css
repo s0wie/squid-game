@@ -1,0 +1,24 @@
+section {
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.container-games {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.container-game {
+  width: 50vh;
+  height: 50vh;
+  background-color: green;
+  margin: 30px;
+}
+
+.subtext {
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+}

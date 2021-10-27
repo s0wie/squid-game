@@ -1,13 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-  </head>
+<?php
+require __DIR__ . "/../components/header.php";
+?>
 
-  <body>
-    about the six games
-  </body>
+<p class="squid-font content-text"> the six games </p>
+<!-- gör ett spel?  TUG OF WARS, där key down så går det ett steg mot höger. 
+  gör loggorna till varje spel som finns i stora rummet, och skriv en beskrivning. 
+  Funktion: En pott som räknar ut hur många personer och pengar som man kan vinna efter varje spel. 
+  Samt valutaomvanlding kanske? Till US-dollar eller till SEK 
+ELLER gör ett formulär där man själv kan bli en spelare.  -->
+</body>
+
 </html>

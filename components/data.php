@@ -40,12 +40,12 @@ $characters =
       'character-info' => 'A childhood friend of Seong Gi-hun, who became a successful businessman, but involved himself in illegal activities which now makes him wanted by the law.',
       'traits' =>
       [
-        'strategic', 'intelligent', 'cunning', 'selfish',
+        'intelligent', 'cunning', 'selfish',
       ]
     ],
     [
       'name' => 'Kan Sae-byeok',
-      'player-tag' => 067,
+      'player-tag' => "067",
       'actor' => 'Jung Ho-yeon',
       'actor-img' => '/../images/player067.png',
       'character-info' => 'A survivor from North Korea, struggling to take care of her brother and keeping her promise to find money in order to bring her mother to South Korea.',
@@ -56,7 +56,7 @@ $characters =
     ],
     [
       'name' => 'Oh Il-nam',
-      'player-tag' => 001,
+      'player-tag' => "001",
       'actor' => 'Oh Yeong-su',
       'actor-img' => '/../images/player001.png',
       'character-info' => 'An elderly man dying of a brain tumor and joined the games to relive the joy of being alive.',

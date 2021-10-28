@@ -1,41 +1,12 @@
-body {
-  background-color: black;
-}
-
-.header-grid-container {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-}
-
-.header-grid-item {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.go-back {
-  text-decoration: none;
-  color: white;
-  font-size: 20px;
-  font-weight: bold;
-}
-
-#squid-game-svg {
-  width: 50vh;
-}
-
-@media (min-width: 790px) {
-  #squid-game-svg {
-    width: 70vh;
-  }
-}
-
-@media (min-width: 1280px) {
-  #squid-game-svg {
-    width: 100vh;
-  }
-}
-
 .content-text {
   color: white;
+}
+
+.circle-article {
+  display: flex;
+  justify-content: center;
+}
+
+.circle-section {
+  width: 90vh;
 }

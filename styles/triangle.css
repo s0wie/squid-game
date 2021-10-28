@@ -2,10 +2,11 @@
   box-sizing: border-box;
 }
 
-.content-text {
-  font-family: squidFont;
+.title-text {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
   font-size: 20px;
+  color: white;
 }
 .actor-container {
   display: flex;

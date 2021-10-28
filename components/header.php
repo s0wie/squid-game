@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="/../styles/circle.css">
   <link rel="stylesheet" href="/../styles/triangle.css">
   <link rel="stylesheet" href="/../styles/square.css">
+  <link rel="stylesheet" href="/../styles/navigation.css">
 </head>
 
 <body>

@@ -18,3 +18,7 @@ body {
 a {
   text-decoration: none;
 }
+
+.square {
+  margin-left: 5px;
+}

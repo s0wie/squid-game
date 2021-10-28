@@ -39,6 +39,7 @@ require __DIR__ . "/../components/data.php";
 
   <?php } ?>
 </div>
+<?php require __DIR__ . "/../components/navigation.php"; ?>
 </body>
 
 </html>

@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+  margin-bottom: 10rem;
+}
+
+.navigation {
+  width: 80%;
+  transition: fill 0.5s;
+  transition-timing-function: ease;
+  fill: black;
+}
+
+.navigation:hover {
+  fill: #ed1b76;
+}

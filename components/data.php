@@ -6,15 +6,19 @@ $slideshowImages =
   [
     [
       'img' => '/../images/announcement.png',
-      'text' => 'Before the first game',
+      'text' => 'Gathering in the dorm room',
     ],
     [
       'img' => '/../images/cookie-game.png',
-      'text' => 'Scene from the Honey Cookie game',
+      'text' => 'The four choices you could make for the dalgona cookie game',
     ],
     [
       'img' => '/../images/stairmaze.jpeg',
       'text' => 'The stairmaze inspired by the famous artwork',
+    ],
+    [
+      'img' => '/../images/honeycookiegame.jpeg',
+      'text' => 'A scene from the dalgona cookie game',
     ],
   ];
 

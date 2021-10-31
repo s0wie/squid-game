@@ -4,10 +4,14 @@ require __DIR__ . "/../components/functions.php";
 ?>
 
 <h3 id="spoiler-alert">!!! SPOILER ALERT !!!</h3>
+<h3 id="spoiler-alert">!!! SPOILER ALERT !!!</h3>
+<h3 id="spoiler-alert">!!! SPOILER ALERT !!!</h3>
+
 <h1 class="squid-font content-text"> The six games </h1>
 <p class="subtext">All the games in squid game are based on real kids games.
   Every players' death adds 100 million won to the final prize money.
-  In order to win, the players needs to survive all the six games. This page briefly summarizes the result of the latest games.
+  In order to win, the players needs to survive all the six games.
+  This page briefly summarizes the result of the latest games.
 </p>
 <article class="container-games">
   <section class="container-game">
@@ -73,11 +77,6 @@ require __DIR__ . "/../components/functions.php";
       echo prizeMoneyInSEK(201 + 107 + 40 + 23 + 14 + 2) ?></p>
   </section>
 </article>
-<!-- gör ett spel?  TUG OF WARS, där key down så går det ett steg mot höger. 
-  gör loggorna till varje spel som finns i stora rummet, och skriv en beskrivning. 
-  Funktion: En pott som räknar ut hur många personer och pengar som man kan vinna efter varje spel. 
-  Samt valutaomvanlding kanske? Till US-dollar eller till SEK 
-ELLER gör ett formulär där man själv kan bli en spelare.  -->
 <?php require __DIR__ . "/../components/navigation.php"; ?>
 </body>
 

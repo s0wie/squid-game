@@ -10,7 +10,6 @@ This project was made to summarize what I've learnt so far, using fundamental co
 
 1. Clone this repo to your desired folder.
 2. Open the terminal, change direction to your folder and start a local server.
-    php -S localhost:8000
 4. Go to the local server on your desired web browser.
 
 # Code Review

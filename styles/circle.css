@@ -1,12 +1,17 @@
-.content-text {
-  color: white;
-}
-
 .circle-article {
-  display: flex;
-  justify-content: center;
+  max-width: 1000px;
+  margin: auto;
+  margin-top: 2rem;
 }
 
 .circle-section {
-  width: 90vh;
+  color: white;
+  font-family: sans-serif;
+  margin-bottom: 2rem;
+}
+
+#days {
+  color: #ed1b76;
+  font-family: squidFont;
+  font-size: 20px;
 }

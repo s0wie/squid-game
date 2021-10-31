@@ -1,8 +1,10 @@
 ![A gif of the squid game doll](https://media.giphy.com/media/yHEu9sPsWveuW4vG7G/giphy.gif)
 
-# Project Title
+# Squid Game Fanpage
 
-Text about the project and why it exists. This would also be a great place to link the project on One.com.
+> My very first PHP project @yrgo
+
+This project was made to summarize what I've learnt so far, using fundamental concepts such as loops, arrays, functions and different data types. For this project, I've made a website about the Netflix series "Squid Game". You can take a look at it at www.susannelam.se.
 
 # Installation
 
@@ -22,5 +24,5 @@ Code review written by [Jane Doh](https://github.com/username).
 
 Tested by the following people:
 
-1. Jane Doe
+1. Marcus Hägerstrand
 2. John Doe

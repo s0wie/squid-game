@@ -1,4 +1,4 @@
-INSERT MANDATORY GIF
+![A gif of the squid game doll](https://media.giphy.com/media/yHEu9sPsWveuW4vG7G/giphy.gif)
 
 # Project Title
 

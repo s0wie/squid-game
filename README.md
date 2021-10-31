@@ -8,7 +8,9 @@ This project was made to summarize what I've learnt so far, using fundamental co
 
 # Installation
 
-Add the installation instructions.
+1. Clone this repo to your desired folder.
+2. Open the terminal, change direction to your folder and start a local server.
+3. Go to the local server on your desired web browser.
 
 # Code Review
 

@@ -5,8 +5,15 @@ declare(strict_types=1);
 function prizeMoney($players)
 {
   $playerWorthWon = 100000000;
-  $playerWorthSEK = $playerWorthWon * 0.5;
-  return $players * $playerWorthSEK;
+  return ($players * $playerWorthWon) / 1000000000 . " billion won";
+}
+
+function prizeMoneyInSEK($players)
+{
+  $playerWorthWon = 100000000;
+  $wonToSek = 0.0073;
+  $playerWorthSEK = $playerWorthWon * $wonToSek;
+  return ($players * $playerWorthSEK) / 10000000 . " million SEK";
 }
 
 function daysSinceRelease($releaseDate, $todaysDate)
@@ -14,8 +21,3 @@ function daysSinceRelease($releaseDate, $todaysDate)
   $days = strtotime($todaysDate) - strtotime($releaseDate);
   return abs($days / 86400);
 }
-
-$releaseDate = "2021-09-17";
-$todaysDate = date('y-m-d');
-
-echo daysSinceRelease($releaseDate, $todaysDate);

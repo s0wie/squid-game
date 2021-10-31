@@ -6,7 +6,7 @@ require __DIR__ . "/../components/data.php";
 ?>
 
 <div>
-  <p class="title-text">CHARACTERS AND CASTS</p>
+  <h1 class="squid-font content-text">ROLES</h1>
 </div>
 <div class="actor-container">
   <?php

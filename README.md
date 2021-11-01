@@ -4,11 +4,13 @@
 
 > My very first PHP project @yrgo
 
-This project was made to summarize what I've learnt so far, using fundamental concepts such as loops, arrays, functions and different data types. For this project, I've made a website about the Netflix series "Squid Game". You can take a look at it at www.susannelam.se.
+This project was made to summarize what I've learnt so far in my PHP course, using fundamental concepts such as loops, arrays, functions and different data types. For this project, I've made a website about the Netflix series "Squid Game". You can take a look at it [here](https://susannelam.se/).
 
 # Installation
 
-Add the installation instructions.
+1. Clone this repo to your desired folder.
+2. Open the terminal, change direction to your folder and start a local server.
+4. Go to the local server on your desired web browser.
 
 # Code Review
 
@@ -25,4 +27,4 @@ Code review written by [Jane Doh](https://github.com/username).
 Tested by the following people:
 
 1. Marcus Hägerstrand
-2. John Doe
+2. Oliver Davis

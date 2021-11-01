@@ -4,7 +4,7 @@
 
 > My very first PHP project @yrgo
 
-This project was made to summarize what I've learnt so far, using fundamental concepts such as loops, arrays, functions and different data types. For this project, I've made a website about the Netflix series "Squid Game". You can take a look at it [here](https://susannelam.se/).
+This project was made to summarize what I've learnt so far in my PHP course, using fundamental concepts such as loops, arrays, functions and different data types. For this project, I've made a website about the Netflix series "Squid Game". You can take a look at it [here](https://susannelam.se/).
 
 # Installation
 

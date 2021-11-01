@@ -40,3 +40,9 @@
 .squid-font {
   font-family: squidFont;
 }
+
+@media (max-height: 700px) {
+  .actor-item {
+    height: 100%;
+  }
+}
